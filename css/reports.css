@@ -1,0 +1,123 @@
+#resurrect-content-inner .ctfw-breadcrumbs ul.leaders-header-list {
+	margin: 0px;
+}
+
+#resurrect-content-inner .ctfw-breadcrumbs ul.leaders-header-list li {
+	display: inline;
+	list-style-type: none;
+	padding-right: 10px;
+}
+
+#resurrect-content-inner .ctfw-breadcrumbs ul.leaders-header-list li a {
+    font-size: 1.25em;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: uppercase;
+    position: relative;
+    display: inline-block;
+    color: #000;
+}
+
+
+.resurrect-entry-content .sbox, .resurrect-entry-content .wrap {
+	display: table-row;
+}
+
+.resurrect-entry-content .half-side {
+	display:table-cell;
+	width: 50%;
+}
+
+.querybox {
+	color: #343a49;
+	padding: 5px 15px 5px;
+	font: 14px/20px Helvetica, Arial, Geneva, sans-serif;
+	margin:0 0.5em;
+}
+
+.half-side .yellowish {
+	background: #F5D0A9;
+	border: 0px solid #aaa;
+}
+.half-side .blueish {
+	background: #8181F7;
+	border: 0px solid #aaa;
+}
+
+.querybox .querybox-title{
+	text-decoration: underline;
+}
+.querybox form
+{
+	margin-top: 0.75em;
+	background-color: transparent;
+}
+
+
+.querybox label
+{
+	display: block;
+	float: left;
+	clear: left;
+	width: 30em;
+	margin-top: 0.5em;
+}
+
+.querybox .labelText
+{
+	position: relative;
+	float: left;
+	width: 20em;
+	margin-right: 0.1em;
+	font-weight: bold;
+}
+
+.querybox .wLabel
+{
+	position: relative;
+	float: left;
+	width: 4em;
+	margin-right: 1em;
+	font-weight: bold;
+}
+
+.querybox input.text
+{
+	position: relative;
+	top: -0.2em;
+	width: 4em;
+	height: 1.5em;
+	margin-right: 0.5em;
+	border: 1px solid #8d95a3
+}
+
+.querybox input.wtext
+{
+	position: relative;
+	top: -0.2em;
+	width: 20em;
+	height: 1.5em;
+	margin-right: 1em;
+	border: 1px solid #8d95a3
+}
+
+.querybox textarea
+{
+	position: relative;
+	top: -0.2em;
+	width: 24em;
+	height: 5em;
+	border: 1px solid #8d95a3
+}
+
+.querybox input.submit
+{
+	display: block;
+	clear: left;
+	width: 10em;
+	height: 3em;
+	margin-left: 5em;
+	margin-top: 0.5em;
+}
+/* @end */
+
